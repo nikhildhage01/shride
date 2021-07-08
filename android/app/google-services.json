@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549543528693",
+    "project_id": "shride-e9758",
+    "storage_bucket": "shride-e9758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549543528693:android:8be41f265dd426ef245dbc",
+        "android_client_info": {
+          "package_name": "com.example.shride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549543528693-ks7h9bhj3h90iuj0kucsgl062hmi5ia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCo63s6gyaoOm_3wWiFG-pajO4auH0iR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549543528693-ks7h9bhj3h90iuj0kucsgl062hmi5ia9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
